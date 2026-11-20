@@ -1,6 +1,6 @@
 # Ibrahim Ghauri
 
-Final-year BS Data Science student at FAST-NUCES, Islamabad. I work on machine learning systems end to
+Final-year BS Data Science student at FAST-NUCES, Islamabad (graduating 2027). I work on machine learning systems end to
 end: experiments that can be reproduced from their logs, and the Python services that put models to use.
 
 Interested in junior ML / AI engineering roles.
@@ -19,9 +19,20 @@ Clause retrieval over commercial contracts (dense + BM25 + cross-encoder reranki
 classification on CUAD, with a FastAPI service and Streamlit UI.
 sentence-transformers · scikit-learn · FastAPI · Streamlit
 
-More projects (a FastAPI/PostgreSQL data service, a MySQL data warehouse with a streaming ETL, a
-NumPy computer-vision pipeline and a concurrent C pipeline) will be published here after this
-semester's grading.
+**[Business Registry Consensus API](https://github.com/ibrahimghauri009/business-registry-consensus-api)**
+Looks up company registrations across three public registers (Companies House, GLEIF, OpenCorporates),
+reconciles them by weighted consensus and stores results in PostgreSQL with TTL-based lifecycle.
+FastAPI · PostgreSQL · Docker · 127 pytest tests
+
+**[Retail data warehouse with MESHJOIN](https://github.com/ibrahimghauri009/retail-dw-meshjoin)**
+Near-real-time ETL that joins a live sales stream with master data (MESHJOIN, with load shedding) and
+loads a MySQL star schema; 20 OLAP queries on top. Python threads · MySQL
+
+### Also
+
+- [numpy-canny-inspection](https://github.com/ibrahimghauri009/numpy-canny-inspection): convolution, filtering and a 4-stage Canny edge detector written from scratch in NumPy, applied to PCB flaws and concrete cracks
+- [posix-tick-pipeline](https://github.com/ibrahimghauri009/posix-tick-pipeline): multi-process, multi-threaded C pipeline using FIFOs, POSIX shared memory and a semaphore-guarded bounded queue (team project)
+- [rideflow-db](https://github.com/ibrahimghauri009/rideflow-db): ride-hailing database with triggers, stored procedures and views behind a Flask API (team project)
 
 ## Experience
 
@@ -30,8 +41,8 @@ semester's grading.
 
 ## Tools used in these projects
 
-Python, PyTorch, scikit-learn, pandas, FastAPI, PostgreSQL, MySQL, Docker, pytest, TypeScript
+Python, PyTorch, scikit-learn, pandas, NumPy, FastAPI, Flask, PostgreSQL, MySQL, Docker, pytest, C (POSIX)
 
 ## Contact
 
-[ibrahimghauri47@gmail.com](mailto:ibrahimghauri47@gmail.com)
+[ibrahimghauri47@gmail.com](mailto:ibrahimghauri47@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrahim-ghauri/)
