@@ -1,6 +1,6 @@
 # Ibrahim Ghauri
 
-Final-year BS Data Science student at FAST-NUCES, Islamabad (graduating 2027). I work on machine learning systems end to
+Final-year BS Data Science student at FAST-NUCES, Islamabad. I work on machine learning systems end to
 end: experiments that can be reproduced from their logs, and the Python services that put models to use.
 
 Interested in junior ML / AI engineering roles.
