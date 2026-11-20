@@ -36,7 +36,6 @@ loads a MySQL star schema; 20 OLAP queries on top. Python threads · MySQL
 
 ## Experience
 
-- Machine Learning Engineering Intern, FlyRank AI (remote), Jul–Aug 2026
 - Digital Dev Intern, NETSOL Technologies (Lahore), Jul–Aug 2026
 
 ## Tools used in these projects
