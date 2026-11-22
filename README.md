@@ -24,7 +24,7 @@ Looks up company registrations across three public registers (Companies House, G
 reconciles them by weighted consensus and stores results in PostgreSQL with TTL-based lifecycle.
 FastAPI · PostgreSQL · Docker · 127 pytest tests
 
-**[Retail data warehouse with MESHJOIN](https://github.com/ibrahimghauri009/retail-dw-meshjoin)**
+**[Retail data warehouse with MESHJOIN](https://github.com/ibrahimghauri009/retail-data-warehouse-meshjoin)**
 Near-real-time ETL that joins a live sales stream with master data (MESHJOIN, with load shedding) and
 loads a MySQL star schema; 20 OLAP queries on top. Python threads · MySQL
 
