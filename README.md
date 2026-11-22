@@ -14,7 +14,7 @@ exemplar set. 115 logged federated runs on two IoT datasets; every number in the
 from the logs. PyTorch · statsmodels · LaTeX ·
 [paper PDF](https://github.com/ibrahimghauri009/capri-federated-unlearning-ids/blob/main/paper/main.pdf)
 
-**[Contract Risk Analyzer](https://github.com/ibrahimghauri009/contract-risk-analyzer)**
+**[Contract Risk Analyzer](https://github.com/ibrahimghauri009/contract-risk-analyzer)** · [live demo](https://contract-risk-analyzer2.streamlit.app/)
 Clause retrieval over commercial contracts (dense + BM25 + cross-encoder reranking) and clause-type
 classification on CUAD, with a FastAPI service and Streamlit UI.
 sentence-transformers · scikit-learn · FastAPI · Streamlit
